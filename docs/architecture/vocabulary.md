@@ -1,7 +1,5 @@
 
-### Vocabulary (put in `docs/architecture/vocabulary.md` or the authoring doc)
-
-Keep these definitions almost verbatim — they are the useful part:
+### Vocabulary
 
 - **Surface** — user-composable plane that holds Tools. Not a window: no chrome, no WM. Can be docked, dragged, disposed, aligned, composed.
 - **Region** — space that hosts one Tool. Replaces toolbar / navbar / menu / status bar. Summoned, dismissed, repositioned, aligned. Exists only while the Tool needs a face.
