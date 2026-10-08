@@ -1,4 +1,4 @@
-# 📁 Configuration Layer (`D:\D_v1\config\`)
+# 📁 Configuration Layer (`D:\D\config\`)
 
 This directory houses the human-readable text configuration scripts that determine your workspace size and bar parameters at initialization without requiring recompilation.
 
