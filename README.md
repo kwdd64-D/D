@@ -1,6 +1,6 @@
 # D
 
-A high-performance, architecture-ready, borderless user interface desktop engine written from scratch in x64 Windows Assembly (**FASM 1**). 
+A high-performance, architecture-ready, borderless spatial workspace written from scratch in x64 Windows Assembly (**FASM 1**). 
 
 ## 🧠 Design Philosophy
 Unlike heavy, object-oriented modern graphics libraries, this system operates on a **stateless, containerless philosophy**. 
